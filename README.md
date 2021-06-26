@@ -1,2 +1,2 @@
-# -Linear-Regression---Mileage-Prediction-for-mtcars
+LinearRegression-MileagePredictionformtcars
 Simple Linear Regression
